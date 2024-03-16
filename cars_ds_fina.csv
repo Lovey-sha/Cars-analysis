@@ -1,0 +1,100 @@
+,Make,Model,Variant,Ex-Showroom_Price,Displacement,Cylinders,Valves_Per_Cylinder,Drivetrain,Cylinder_Configuration,Emission_Norm,Engine_Location,Fuel_System,Fuel_Tank_Capacity,Fuel_Type,Height,Length,Width,Body_Type,Doors
+0,Tata,Nano Genx,Xt,"Rs. 2,92,667",624 cc,2,2,RWD (Rear Wheel Drive),In-line,BS IV,"Rear, Transverse",Injection,24 litres,Petrol,1652 mm,3164 mm,1750 mm,Hatchback,5
+1,Tata,Nano Genx,Xe,"Rs. 2,36,447",624 cc,2,2,RWD (Rear Wheel Drive),In-line,BS IV,"Rear, Transverse",Injection,24 litres,Petrol,1652 mm,3164 mm,1750 mm,Hatchback,5
+2,Tata,Nano Genx,Emax Xm,"Rs. 2,96,661",624 cc,2,2,RWD (Rear Wheel Drive),In-line,BS IV,"Rear, Transverse",Injection,15 litres,CNG,1652 mm,3164 mm,1750 mm,Hatchback,4
+3,Tata,Nano Genx,Xta,"Rs. 3,34,768",624 cc,2,2,RWD (Rear Wheel Drive),In-line,BS IV,"Rear, Transverse",Injection,24 litres,Petrol,1652 mm,3164 mm,1750 mm,Hatchback,5
+4,Tata,Nano Genx,Xm,"Rs. 2,72,223",624 cc,2,2,RWD (Rear Wheel Drive),In-line,BS IV,"Rear, Transverse",Injection,24 litres,Petrol,1652 mm,3164 mm,1750 mm,Hatchback,5
+5,Tata,Nano Genx,Xma,"Rs. 3,14,815",624 cc,2,2,RWD (Rear Wheel Drive),In-line,BS IV,"Rear, Transverse",Injection,24 litres,Petrol,1652 mm,3164 mm,1750 mm,Hatchback,5
+6,Datsun,Redi-Go,D,"Rs. 2,79,650",799 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,28 litres,Petrol,1541 mm,3429 mm,1560 mm,Hatchback,5
+7,Datsun,Redi-Go,T,"Rs. 3,51,832",799 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,28 litres,Petrol,1541 mm,3429 mm,1560 mm,Hatchback,5
+8,Datsun,Redi-Go,A,"Rs. 3,33,419",799 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,28 litres,Petrol,1541 mm,3429 mm,1560 mm,Hatchback,5
+9,Datsun,Redi-Go,S,"Rs. 3,62,000",799 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,28 litres,Petrol,1541 mm,3429 mm,1560 mm,Hatchback,5
+10,Datsun,Redi-Go,1.0 S,"Rs. 3,90,000",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,28 litres,Petrol,1541 mm,3429 mm,1560 mm,Hatchback,5
+11,Datsun,Redi-Go,1.0 S Amt,"Rs. 4,37,065",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,28 litres,Petrol,1541 mm,3429 mm,1560 mm,Hatchback,5
+12,Renault,Kwid,Rxe 0.8,"Rs. 3,53,290",799 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1579 mm,Hatchback,5
+13,Renault,Kwid,Std 0.8,"Rs. 2,83,290",799 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1579 mm,Hatchback,5
+14,Renault,Kwid,Rxl 0.8,"Rs. 3,83,290",799 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1579 mm,Hatchback,5
+15,Renault,Kwid,Rxt 0.8,"Rs. 4,13,290",799 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1580 mm,Hatchback,5
+16,Renault,Kwid,Rxt 1.0,"Rs. 4,33,290",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1579 mm,Hatchback,5
+17,Renault,Kwid,Climber 1.0 Mt,"Rs. 4,54,490",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1579 mm,Hatchback,5
+18,Renault,Kwid,Rxt Amt 1.0,"Rs. 4,63,290",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1579 mm,Hatchback,5
+19,Renault,Kwid,Climber Amt 1.0,"Rs. 4,84,490",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1579 mm,Hatchback,5
+20,Renault,Kwid,Rxt (O) 1.0,"Rs. 4,40,990",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1579 mm,Hatchback,5
+21,Renault,Kwid,Rxt (O) Amt 1.0,"Rs. 4,70,990",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1579 mm,Hatchback,5
+22,Renault,Kwid,Climber (O) Mt 1.0,"Rs. 4,62,190",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1579 mm,Hatchback,5
+23,Renault,Kwid,Climber (O) Amt 1.0,"Rs. 4,92,190",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,28 litres,Petrol,1490 mm,3731 mm,1579 mm,Hatchback,5
+24,Maruti Suzuki,Eeco,5 Str,"Rs. 3,52,136",1196 cc,4,4,RWD (Rear Wheel Drive),In-line,BS 6,"Front, Longitudinal",Injection,40 litres,Petrol,1800 mm,3675 mm,1475 mm,MPV,5
+25,Maruti Suzuki,Eeco,7 Str,"Rs. 3,80,573",1196 cc,4,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Longitudinal",Injection,40 litres,Petrol,1800 mm,3675 mm,1475 mm,MPV,5
+26,Maruti Suzuki,Eeco,5 Str With Ac+Htr,"Rs. 3,92,967",1196 cc,4,4,RWD (Rear Wheel Drive),In-line,BS 6,"Front, Longitudinal",Injection,40 litres,Petrol,1800 mm,3675 mm,1475 mm,MPV,5
+27,Maruti Suzuki,Eeco,5 Str With Ac+Htr Cng,"Rs. 4,66,057",1196 cc,4,4,RWD (Rear Wheel Drive),In-line,BS 6,"Front, Longitudinal",Injection,40 litres,CNG,1800 mm,3675 mm,1475 mm,MPV,5
+28,Maruti Suzuki,Eeco,5 Str With Htr Cng,"Rs. 4,25,255",1196 cc,4,4,RWD (Rear Wheel Drive),In-line,BS 6,"Front, Longitudinal",Injection,40 litres,CNG,1800 mm,3675 mm,1475 mm,MPV,5
+29,Maruti Suzuki,Alto K10,Lxi,"Rs. 3,77,588",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1475 mm,3545 mm,1490 mm,Hatchback,5
+30,Maruti Suzuki,Alto K10,Vxi,"Rs. 3,94,036",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1475 mm,3545 mm,1490 mm,Hatchback,5
+31,Maruti Suzuki,Alto K10,Lx,"Rs. 3,60,843",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1475 mm,3545 mm,1490 mm,Hatchback,5
+32,Maruti Suzuki,Alto K10,Vxi (O),"Rs. 4,07,238",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1460 mm,3620 mm,1475 mm,Hatchback,5
+33,Maruti Suzuki,Alto K10,Lxi Cng (O),"Rs. 4,39,777",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,CNG,1475 mm,3545 mm,1490 mm,Hatchback,5
+34,Maruti Suzuki,Alto K10,Vxi Amt (O),"Rs. 4,38,559",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1475 mm,3545 mm,1490 mm,Hatchback,5
+35,Datsun,Go,D,"Rs. 3,74,990",1198 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1507 mm,3788 mm,1636 mm,Hatchback,5
+36,Datsun,Go,T,"Rs. 4,68,229",1198 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1507 mm,3788 mm,1636 mm,Hatchback,5
+37,Datsun,Go,T (O),"Rs. 5,02,492",1198 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1507 mm,3788 mm,1636 mm,Hatchback,5
+38,Datsun,Go,A (O),"Rs. 4,99,990",1198 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1507 mm,3788 mm,1636 mm,Hatchback,5
+39,Datsun,Go,A,"Rs. 4,69,990",1198 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1507 mm,3788 mm,1636 mm,Hatchback,5
+40,Datsun,Go,T Vdc,"Rs. 5,28,464",1198 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1507 mm,3788 mm,1636 mm,Hatchback,5
+41,Datsun,Go,T (O) Vdc,"Rs. 5,53,015",1198 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1507 mm,3788 mm,1636 mm,Hatchback,5
+42,Datsun,Go,T Cvt,"Rs. 5,94,464",1198 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1507 mm,3788 mm,1636 mm,Hatchback,5
+43,Datsun,Go,T (O) Cvt,"Rs. 6,18,015",1198 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1507 mm,3788 mm,1636 mm,Hatchback,5
+44,Maruti Suzuki,Celerio Tour,H2,"Rs. 4,22,444",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3600 mm,1600 mm,Hatchback,5
+45,Maruti Suzuki,Celerio Tour,H2 Cng,"Rs. 4,80,670",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,60 litres,CNG,1560 mm,3695 mm,1600 mm,Hatchback,5
+46,Hyundai,Santro,Era Mt,"Rs. 4,29,990",1086 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3610 mm,1645 mm,Hatchback,4
+47,Hyundai,Santro,Magna Mt,"Rs. 5,03,990",1086 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3610 mm,1645 mm,Hatchback,4
+48,Hyundai,Santro,Magna Mt Cng,"Rs. 5,47,990",1086 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,CNG,1560 mm,3610 mm,1645 mm,Hatchback,4
+49,Hyundai,Santro,Magna Amt,"Rs. 5,30,990",1086 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3610 mm,1645 mm,Hatchback,4
+50,Hyundai,Santro,Sportz Mt,"Rs. 5,12,990",1086 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3610 mm,1645 mm,Hatchback,4
+51,Hyundai,Santro,Sportz Mt Cng,"Rs. 5,78,990",1086 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,60 litres,CNG,1560 mm,3610 mm,1645 mm,Hatchback,4
+52,Hyundai,Santro,Sportz Amt,"Rs. 5,70,990",1086 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3610 mm,1645 mm,Hatchback,4
+53,Hyundai,Santro,Asta Mt,"Rs. 5,56,490",1086 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3610 mm,1645 mm,Hatchback,4
+54,Tata,Tiago,Revotron Xe,"Rs. 4,60,000",1199 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,35 litres,Petrol,1535 mm,3765 mm,1677 mm,Hatchback,5
+55,Tata,Tiago,Revotron Xt,"Rs. 5,20,000",1199 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,35 litres,Petrol,1535 mm,3746 mm,1647 mm,Hatchback,5
+56,Tata,Tiago,Revotron Xz,"Rs. 5,70,000",1199 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,35 litres,Petrol,1535 mm,3746 mm,1647 mm,Hatchback,5
+57,Tata,Tiago,Revotron Xz Plus,"Rs. 5,99,000",1199 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,35 litres,Petrol,1535 mm,3746 mm,1647 mm,Hatchback,5
+58,Tata,Tiago,Revotron Xz Plus Dual Tone,"Rs. 6,10,000",1199 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,35 litres,Petrol,1535 mm,3746 mm,1647 mm,Hatchback,5
+59,Tata,Tiago,Revotron Xza,"Rs. 6,20,000",1199 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,35 litres,Petrol,1535 mm,3746 mm,1647 mm,Hatchback,5
+60,Tata,Tiago,Revotron Xza Plus,"Rs. 6,49,000",1199 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,35 litres,Petrol,1535 mm,3746 mm,1647 mm,Hatchback,5
+61,Tata,Tiago,Revotron Xza Plus Dual Tone,"Rs. 6,60,000",1199 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,35 litres,Petrol,1535 mm,3746 mm,1647 mm,Hatchback,5
+62,Maruti Suzuki,Celerio X,Vxi (O),"Rs. 4,81,074",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3600 mm,1600 mm,Hatchback,5
+63,Maruti Suzuki,Celerio X,Vxi,"Rs. 4,75,198",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3600 mm,1600 mm,Hatchback,5
+64,Maruti Suzuki,Celerio X,Vxi Amt,"Rs. 5,18,198",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3600 mm,1600 mm,Hatchback,5
+65,Maruti Suzuki,Celerio X,Vxi Amt (O),"Rs. 5,24,074",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3600 mm,1600 mm,Hatchback,5
+66,Maruti Suzuki,Celerio X,Zxi,"Rs. 4,99,734",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3600 mm,1600 mm,Hatchback,5
+67,Maruti Suzuki,Celerio X,Zxi (O),"Rs. 5,40,350",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3600 mm,1600 mm,Hatchback,5
+68,Maruti Suzuki,Celerio X,Zxi Amt,"Rs. 5,42,735",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3600 mm,1600 mm,Hatchback,5
+69,Maruti Suzuki,Celerio X,Zxi Amt (O),"Rs. 5,52,350",998 cc,3,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,35 litres,Petrol,1560 mm,3600 mm,1600 mm,Hatchback,5
+70,Maruti Suzuki,Ignis,Alpha 1.2 Amt,"Rs. 7,13,898",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,32 litres,Petrol,1595 mm,3700 mm,1690 mm,Hatchback,5
+71,Maruti Suzuki,Ignis,Alpha 1.2 Mt,"Rs. 6,66,898",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,32 litres,Petrol,1595 mm,3700 mm,1690 mm,Hatchback,5
+72,Maruti Suzuki,Ignis,Delta 1.2 Amt,"Rs. 6,07,841",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,32 litres,Petrol,1595 mm,3700 mm,1690 mm,Hatchback,5
+73,Maruti Suzuki,Ignis,Delta 1.2 Mt,"Rs. 5,60,841",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,32 litres,Petrol,1595 mm,3700 mm,1690 mm,Hatchback,5
+74,Maruti Suzuki,Ignis,Sigma 1.2 Mt,"Rs. 4,83,320",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,32 litres,Petrol,1595 mm,3700 mm,1690 mm,Hatchback,5
+75,Maruti Suzuki,Ignis,Zeta 1.2 Amt,"Rs. 6,30,320",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,32 litres,Petrol,1595 mm,3700 mm,1690 mm,Hatchback,5
+76,Maruti Suzuki,Ignis,Zeta 1.2 Mt,"Rs. 5,83,320",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,32 litres,Petrol,1595 mm,3700 mm,1690 mm,Hatchback,5
+77,Renault,Triber,Rxe,"Rs. 4,95,000",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,40 litres,Petrol,1643 mm,3990 mm,1739 mm,MUV,5
+78,Renault,Triber,Rxl,"Rs. 5,59,000",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,40 litres,Petrol,1643 mm,3990 mm,1739 mm,MUV,5
+79,Renault,Triber,Rxt,"Rs. 6,09,000",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,40 litres,Petrol,1643 mm,3990 mm,1739 mm,MUV,5
+80,Renault,Triber,Rxz,"Rs. 6,63,000",999 cc,3,4,FWD (Front Wheel Drive),In-line,BS 6,"Front, Transverse",Injection,40 litres,Petrol,1643 mm,3990 mm,1739 mm,MUV,5
+81,Premier,Rio,Gx,"Rs. 5,06,000",1173 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Longitudinal",Injection,46 litres,Petrol,1730 mm,3970 mm,1570 mm,SUV,5
+82,Premier,Rio,Ex,"Rs. 5,68,623",1489 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Longitudinal",Injection,46 litres,Diesel,1730 mm,3970 mm,1570 mm,SUV,5
+83,Premier,Rio,Glx,"Rs. 6,70,000",1173 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Longitudinal",Injection,46 litres,Petrol,1730 mm,3970 mm,1570 mm,SUV,5
+84,Premier,Rio,Dx,"Rs. 6,03,000",1489 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Longitudinal",Injection,46 litres,Diesel,1730 mm,3970 mm,1570 mm,SUV,5
+85,Premier,Rio,Lx,"Rs. 7,39,000",1489 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Longitudinal",Injection,46 litres,Diesel,1730 mm,3970 mm,1570 mm,SUV,5
+86,Premier,Rio,Crdi4,"Rs. 7,39,000",1248 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Longitudinal",Injection,46 litres,Diesel,1730 mm,3970 mm,1570 mm,SUV,5
+87,Toyota,Etios Liva,G,"Rs. 5,20,300",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Petrol,1510 mm,3884 mm,1695 mm,Hatchback,5
+88,Toyota,Etios Liva,V,"Rs. 5,81,000",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Petrol,1510 mm,3884 mm,1695 mm,Hatchback,5
+89,Toyota,Etios Liva,Gd,"Rs. 6,47,800",1364 cc,4,2,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Diesel,1510 mm,3884 mm,1695 mm,Hatchback,5
+90,Toyota,Etios Liva,Vx,"Rs. 6,30,000",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Petrol,1510 mm,3884 mm,1695 mm,Hatchback,5
+91,Toyota,Etios Liva,Vxd,"Rs. 7,45,000",1364 cc,4,2,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Diesel,1510 mm,3884 mm,1695 mm,Hatchback,5
+92,Toyota,Etios Liva,Vd,"Rs. 7,04,000",1364 cc,4,2,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Diesel,1510 mm,3884 mm,1695 mm,Hatchback,5
+93,Toyota,Etios Liva,Dual Tone V,"Rs. 5,97,700",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Petrol,1510 mm,3884 mm,1695 mm,Hatchback,5
+94,Toyota,Etios Liva,Dual Tone Vd,"Rs. 7,20,700",1364 cc,4,2,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Diesel,1510 mm,3884 mm,1695 mm,Hatchback,5
+95,Toyota,Etios Liva,Dual Tone Vx,"Rs. 6,41,700",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Petrol,1510 mm,3884 mm,1695 mm,Hatchback,5
+96,Toyota,Etios Liva,Dual Tone Vxd,"Rs. 7,56,700",1364 cc,4,2,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Diesel,1510 mm,3884 mm,1695 mm,Hatchback,5
+97,Toyota,Etios Liva,Gx,"Rs. 5,58,400",1197 cc,4,4,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Petrol,1510 mm,3884 mm,1695 mm,Hatchback,5
+98,Toyota,Etios Liva,Gxd,"Rs. 6,86,000",1364 cc,4,2,FWD (Front Wheel Drive),In-line,BS IV,"Front, Transverse",Injection,45 litres,Diesel,1510 mm,3884 mm,1695 mm,Hatchback,5
